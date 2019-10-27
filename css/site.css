@@ -5,22 +5,15 @@ body {
     background-size: cover;
 }
 
-body > nav {
-    background-color: rgba(0,0,0,0.4);
-}
-
 .scroll-link {
     color: rgba(255,255,255,.5);
-}
-
-.scroll-link:hover {
-    color: rgba(255,255,255,.75);
 }
 
 .social-link {
     color: white;
 }
 
+.scroll-link:hover,
 .social-link:hover {
     color: rgba(255,255,255,.75);
 }
